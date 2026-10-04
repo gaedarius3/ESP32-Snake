@@ -1,4 +1,6 @@
-# Retro Snake Game — Embedded Systems Implementation
+<img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/609146a4-1ce0-4421-bff7-b7ad7e83b4ca" /># Retro Snake Game — Embedded Systems Implementation
+<img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/d4f6584f-11fe-4214-abb8-24be26dba060" />
+
 
 An asynchronous, non-blocking implementation of the classic Snake arcade game engineered for microcontrollers (ESP32 / Arduino). The system features hardware I2C interfacing for an SSD1306 OLED display, active-low tactile button navigation, and dynamic PWM-based auditory feedback.
 
