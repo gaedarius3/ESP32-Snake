@@ -87,4 +87,11 @@ Ensure the following libraries are installed in your Arduino IDE or PlatformIO e
 - [ ] **Dynamic Difficulty Scaling:** Incrementally decrease `gameSpeed` interval as the snake grows.
 - [ ] **Input FIFO Queue:** Implement an input buffer to prevent illegal corner-trap collisions during rapid double-key presses.
 
+---
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+
 

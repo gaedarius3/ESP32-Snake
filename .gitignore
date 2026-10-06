@@ -1,0 +1,37 @@
+# Compiled binaries and build outputs
+*.hex
+*.elf
+*.bin
+*.eep
+*.o
+*.a
+*.s
+*.d
+
+# Build directories
+build/
+bin/
+out/
+
+# PlatformIO
+.pio/
+.pioenvs/
+.piolibdeps/
+.clangd/
+
+# Arduino IDE temporary & cache
+*~.res
+*.preproc.macros
+
+# Editor & IDE configurations
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Operating System files
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*~
